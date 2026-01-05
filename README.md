@@ -37,12 +37,18 @@ RCE 哨兵是一款高效的 Burp Suite 扩展插件，专注于检测 HTTP 请�
 1. 点击 "开启插件" 按钮
 2. 状态栏显示 "[+] RCE哨兵已启动"
 3. 开始正常浏览目标网站，插件会自动测试
+ <img width="1800" height="1105" alt="s1" src="https://github.com/user-attachments/assets/19022d6f-e23d-4df3-b73a-cdd9f97f2c1b" />
+
 
 ### 3. 查看结果
 
 - 表格中会实时显示所有测试请求
 - 点击表格行可在下方查看完整的请求和响应数据包
 - 右键点击表格行可将请求发送到 Repeater
+
+<img width="1826" height="796" alt="s2" src="https://github.com/user-attachments/assets/c2ae2fb5-e104-4292-b737-c42a036ec053" />
+
+
 
 ## 📝 工作原理
 
