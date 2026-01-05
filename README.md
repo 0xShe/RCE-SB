@@ -6,10 +6,8 @@
 
 ```
 解压密码在sbbbb.cn首页的OxShe工具 找到RCE哨兵 点击进去即可获取解压密码【如果觉得本站好用，请收藏】
-<img width="805" height="345" alt="image" src="https://github.com/user-attachments/assets/788ced62-cc06-46df-a17a-e69bf48d56e8" />
-
 ```
-
+<img width="805" height="345" alt="image" src="https://github.com/user-attachments/assets/788ced62-cc06-46df-a17a-e69bf48d56e8" />
 
 ## 📖 工具介绍
 
